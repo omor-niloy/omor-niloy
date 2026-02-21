@@ -47,21 +47,21 @@ I am particularly interested in:
 ## Professional Experience
 
 ### Software Engineer L1 - Enosis Solutions
-**Dec 2025 – Present**
+**Dec 2025 - Present**
 
 - Develop and maintain production-grade software systems  
 - Follow clean architecture and scalable design principles  
 - Collaborate within cross-functional engineering teams  
 
 ### Competitive Programming Mentor - Shohoj Coding  
-**Jan 2026 – Present**
+**Jan 2026 - Present**
 
 - Teach Algorithms and Data Structures  
 - Mentor students for competitive programming and ICPC preparation  
 - Emphasize analytical thinking and deep problem-solving skills 
 
 ### Programming Trainer - University of Rajshahi  
-**Sep 2022 – Oct 2025**
+**Sep 2022 - Oct 2025**
 
 - Conducted 50+ sessions on Algorithms and Data Structures  
 - Mentored 100+ undergraduate students in competitive programming  
