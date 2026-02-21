@@ -1,6 +1,6 @@
 # Omor Faruk Niloy
 
-Software Engineer | Competitive Programmer | ML & Systems Enthusiast  
+**Software Engineer | Competitive Programmer | ML & Systems Enthusiast**  
 Dhaka, Bangladesh  
 
 B.Sc. in Computer Science & Engineering  
@@ -10,9 +10,10 @@ University of Rajshahi (CGPA: 3.83 / 4.00)
 
 ## About Me
 
-I am a Software Engineer and competitive programmer with strong foundations in algorithms, systems, and scalable software design.
 
-I have solved 2000+ problems across major online judges and participated in ICPC regional and continental finals. Alongside competitive programming, I work on machine learning model optimization and production-grade software systems.
+I am a **Software Engineer and competitive programmer** with strong foundations in algorithms, systems, and scalable software design.
+
+I have solved **2000+ problems** across major online judges and participated in ICPC regional and continental finals. Alongside competitive programming, I work on machine learning model optimization and production-grade software systems.
 
 I am particularly interested in:
 
@@ -25,27 +26,27 @@ I am particularly interested in:
 
 ## Competitive Programming
 
-- **Codeforces**: [the_dragon_emperor](https://codeforces.com/profile/the_dragon_emperor) - Candidate Master (1929, Top 6%)
-- **CodeChef**: [promod](https://www.codechef.com/users/promod) - 6★ (2209, Top 1.5%)
-- **LeetCode**: [dragon-emperor](https://leetcode.com/u/dragon-emperor/) - 1925 (Top 3.78%)
+- **Codeforces**: [the_dragon_emperor](https://codeforces.com/profile/the_dragon_emperor) - **Candidate Master (1929, Top 6%)**
+- **CodeChef**: [promod](https://www.codechef.com/users/promod) - **6★ (2209, Top 1.5%)**
+- **LeetCode**: [dragon-emperor](https://leetcode.com/u/dragon-emperor/) - **1925 (Top 3.78%)**
 
-- 200+ contests participated  
-- 2000+ problems solved  
+- **200+ contests participated**  
+- **2000+ problems solved**  
 
 ### ICPC & Inter-University Achievements
 
-- ICPC Asia West Continent Final 2023 - 70th Place  
-- ICPC Dhaka Regional 2023 - 23rd / 200+  
-- CUET IUPC 2024 - 4th / 100  
-- CoU IUPC 2023 - 4th / 100+  
-- DUET IUPC 2025 - 10th / 130  
-- BUET IUPC 2023 - 14th / 100  
+- ICPC Asia West Continent Final 2023 - **70th Place**  
+- ICPC Dhaka Regional 2023 - **23rd / 200+**  
+- CUET IUPC 2024 - **4th / 100**  
+- CoU IUPC 2023 - **4th / 100+**  
+- DUET IUPC 2025 - **10th / 130**  
+- BUET IUPC 2023 - **14th / 100**  
 
 ---
 
 ## Professional Experience
 
-### Software Engineer L1 - Enosis Solutions  
+### Software Engineer L1 - Enosis Solutions
 **Dec 2025 – Present**
 
 - Develop and maintain production-grade software systems  
@@ -128,9 +129,9 @@ Currently exploring:
 
 ## Contact
 
-Email: omor.niloy.0@gmail.com  
-LinkedIn: https://linkedin.com/in/omor-niloy-719659253  
-GitHub: https://github.com/omor-niloy  
+**Email:** omor.niloy.0@gmail.com  
+**LinkedIn:** https://linkedin.com/in/omor-niloy-719659253  
+**GitHub:** https://github.com/omor-niloy  
 
 ---
 
